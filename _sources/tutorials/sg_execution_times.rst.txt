@@ -1,0 +1,22 @@
+
+:orphan:
+
+.. _sphx_glr_tutorials_sg_execution_times:
+
+Computation times
+=================
+**01:39.937** total execution time for **tutorials** files:
+
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_tutorials_plot_customizations.py` (``plot_customizations.py``)                       | 00:47.413 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_tutorials_working_with_catalog_forecasts.py` (``working_with_catalog_forecasts.py``) | 00:17.784 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_tutorials_catalog_filtering.py` (``catalog_filtering.py``)                           | 00:12.728 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_tutorials_catalog_forecast_evaluation.py` (``catalog_forecast_evaluation.py``)       | 00:09.672 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_tutorials_gridded_forecast_evaluation.py` (``gridded_forecast_evaluation.py``)       | 00:08.040 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
+| :ref:`sphx_glr_tutorials_plot_gridded_forecast.py` (``plot_gridded_forecast.py``)                   | 00:04.300 | 0.0 MB |
++-----------------------------------------------------------------------------------------------------+-----------+--------+
